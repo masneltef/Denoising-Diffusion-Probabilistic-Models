@@ -1,0 +1,11 @@
+{
+  "fid": 468.03485107421875,
+  "is_mean": 1.355793833732605,
+  "is_std": 0.024947013705968857,
+  "model": "experiments/exp-40-ddpm/checkpoints/checkpoint_epoch_49.pth",
+  "use_cfg": false,
+  "guidance_scale": null,
+  "use_ddim": true,
+  "num_inference_steps": 100,
+  "latent_ddpm": false
+}
